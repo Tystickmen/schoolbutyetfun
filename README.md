@@ -31,3 +31,5 @@ pnpm run preview
 For questions and suggestions please join our [Discord server](https://discord.gg/C2fbK35Rhg)
 
 For any website/game issues please create a new GitHub issue
+
+https://tystickmen.github.io/schoolbutyetfun/
